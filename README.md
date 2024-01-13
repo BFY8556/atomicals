@@ -21,7 +21,7 @@
 
 1. Built-in private node, fee version, do not mind do not use, each stroke 2000 (less than 1U).
 
-two。 Charging is very normal, node costs, stable nodes, coupled with software optimization, will not be scrapped, the comprehensive cost will be much lower than scrapped, understand.
+2.Charging is very normal, node costs, stable nodes, coupled with software optimization, will not be scrapped, the comprehensive cost will be much lower than scrapped, understand.
 
 3. When all the nodes crash, we can still happily mint.
 
