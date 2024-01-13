@@ -1,4 +1,5 @@
 # atomicals
+暂时只支持FT，NFT这几天更新支持版本。
 
 1.内置私人节点，收费版，介意的不要用，每笔2000聪（不到1u）。
 
@@ -18,6 +19,7 @@
 下载地址https://github.com/BFY8556/atomicals/releases/tag/atomicals
 
 # atomicals
+Currently, only FT,NFT is supported to update the supported version these days.
 
 1. Built-in private node, fee version, do not mind do not use, each stroke 2000 (less than 1U).
 
