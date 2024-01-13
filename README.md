@@ -3,6 +3,10 @@
 ### 说明看这里 👋
 脚本平时自用为主，朋友间小众范围内可用，切勿传播。
 
+速度快了很多，6位110秒搞定。
+![image](https://github.com/BFY8556/atomicals/assets/80470351/f47f5c51-675f-4327-ab02-216b9fdb2bcb)
+
+
 
 脚本内置atomicals私人节点，目前节点服务器受限于成本，故不支持大面积使用脚本。
 
@@ -64,17 +68,4 @@ funding钱包和接收钱包最好都单独隔离，不要存入其他资产。
 更新时间待定。
 
 
-<!--
-**atomicals-miner/atomicals-miner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+需要什么功能要加入的可以联系我
