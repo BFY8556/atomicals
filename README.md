@@ -1,40 +1,78 @@
-# atomicals
-暂时只支持FT，NFT这几天更新支持版本。
+### 说明看这里 👋
+脚本平时自用为主，朋友间小众范围内可用，切勿传播。
 
-1.内置私人节点，非常稳定，收费版，介意的不要用，每笔2000聪（不到1u）。
-注意！！！！只是总成本增加1u，没有额外的gas，是和mint一起打包的。不是分笔转账。
 
-2.收费很正常，节点要成本，稳定的节点，加上软件的优化，不会打废，综合成本会比打废的低很多，懂的都懂。
+脚本内置atomicals私人节点，目前节点服务器受限于成本，故不支持大面积使用脚本。
 
-3.当所有的节点崩溃的时候，我们还能愉快的mint。
 
-4.速度，速度就不用说了，比官方的快很多，想知道自己测试，目前测试的4位内秒，6位100秒，5.7位几百秒，因设备而异。
+脚本内置抽成系统，每笔2000聪（大概0.8u）,介意的朋友 请不要使用。
 
-6.不需要部署复杂环境，直接下载就可以打。
-7.不需要任何指令，要打什么改个名称就可以了。
 
-8.想要打几张，直接输入数字，会自动打完停止。
+除去节点，脚本无服务器数据互通，因此不用担心资产泄露。可用新钱包mint。
 
-9.全程记录日志。
 
-下载地址https://github.com/BFY8556/atomicals/releases/tag/atomicals
 
-# atomicals
-Currently, only FT,NFT is supported to update the supported version these days.
+### 功能看这里 ⚡
+无需部署atomicals复杂环境
 
-1. Built-in private node, fee version, do not mind do not use, each stroke 2000 (less than 1U).
 
-2.Charging is very normal, node costs, stable nodes, coupled with software optimization, will not be scrapped, the comprehensive cost will be much lower than scrapped, understand.
+一键批量生成钱包，可导入欧意
 
-3. When all the nodes crash, we can still happily mint.
 
-4. Speed, needless to say, much faster than the official, want to know their own test, the current test of 4 bits within seconds, 6 bits 100 seconds, 5.7 bits hundreds of seconds, depending on the device.
+私有节点在项目火热的时候能确保你打到
 
-6. You don't need to deploy a complex environment, you can just download it and hit it.
-7. You don't need any instructions, just change your name if you want to type something.
 
-8. If you want to type a few pictures, enter the number directly, and the typing will stop automatically.
+使用过程傻瓜式修改参数，适合新人
 
-9. Keep a log of the whole process.
+【
+::打包手续费上限 ,satsbyte
+set max_fee=60
+::固定打包手续费 ,satsbyte
+set fee=60
+::要打的ARC20名称
+set ticker=sophon
+::要打的次数 如果打多次 请确保手续费充足
+set times=1】
 
-Download address https://github.com/BFY8556/atomicals/releases/tag/atomicals
+全程记录日志，不会因为raw打印问题mint失败。
+
+效率高，4位难度基本秒出。7位难度3秒内。
+
+
+### 特别提醒 🌱
+由于btc的utxo接口不返回atomicals资产，所以请注意下面说明，否则资产有可能会被烧毁。
+
+funding钱包和接收钱包最好都单独隔离，不要存入其他资产。
+
+尤其是funding钱包，只能转入少量比特币当gas，其他任何资产一定不能转入。
+
+脚本目前仅抽成2000聪，纯粹是为了减轻一些服务器开支成本。不排除后续增加抽成，增加时会有通知。
+
+抽成是随Commit Tx 一起打包，不会产生额外gas费用
+
+
+
+### 下个版本预览 🤔
+
+增加打nft功能
+
+增加其他脚本或自己手动打废找回功能
+
+
+更新时间待定。
+
+
+<!--
+**atomicals-miner/atomicals-miner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
