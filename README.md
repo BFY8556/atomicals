@@ -1,3 +1,5 @@
+下载地址:https://github.com/BFY8556/atomicals/releases/tag/atomicals
+
 ### 说明看这里 👋
 脚本平时自用为主，朋友间小众范围内可用，切勿传播。
 
