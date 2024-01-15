@@ -1,3 +1,5 @@
+不会的就看教程：https://twitter.com/bfy8556/status/1746857966219993234
+
 下载地址:https://github.com/BFY8556/atomicals/releases/tag/atomicals
 
 ###完美解决中间地址reveal问题###
