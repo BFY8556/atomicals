@@ -2,6 +2,8 @@
 
 下载地址:https://github.com/BFY8556/atomicals/releases/tag/atomicals
 
+请下载最新版
+
 ###完美解决中间地址reveal问题###
 
 ###只要gas给够，要多少张打多少张，不会打废###
