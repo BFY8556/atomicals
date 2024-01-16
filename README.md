@@ -12,9 +12,10 @@
 
 脚本平时自用为主，朋友间小众范围内可用，切勿传播。
 
-速度快了很多，6位110秒搞定。
-![image](https://github.com/BFY8556/atomicals/assets/80470351/f47f5c51-675f-4327-ab02-216b9fdb2bcb)
-
+速度总之就很快，下面用户反馈的截图，老cpu45秒
+![4dcef6c7fa73989d5a5bf1f557e601a](https://github.com/BFY8556/atomicals/assets/80470351/f437a47e-ad9b-4997-a5a6-5993a11ce10b)
+![image](https://github.com/BFY8556/atomicals/assets/80470351/0c30a03b-4a84-4323-a64d-2ad06bffbec9)
+![image](https://github.com/BFY8556/atomicals/assets/80470351/45326a94-db45-4b8c-8755-cfb1487126ce)
 
 
 脚本内置atomicals私人节点，目前节点服务器受限于成本，故不支持大面积使用脚本。
