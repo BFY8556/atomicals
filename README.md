@@ -13,6 +13,7 @@
 脚本平时自用为主，朋友间小众范围内可用，切勿传播。
 
 速度总之就很快，下面用户反馈的截图，老cpu45秒
+
 ![4dcef6c7fa73989d5a5bf1f557e601a](https://github.com/BFY8556/atomicals/assets/80470351/f437a47e-ad9b-4997-a5a6-5993a11ce10b)
 ![image](https://github.com/BFY8556/atomicals/assets/80470351/0c30a03b-4a84-4323-a64d-2ad06bffbec9)
 ![image](https://github.com/BFY8556/atomicals/assets/80470351/45326a94-db45-4b8c-8755-cfb1487126ce)
@@ -45,19 +46,11 @@
 ![image](https://github.com/BFY8556/atomicals/assets/80470351/19aec613-42de-4518-bbcf-3f5b0db7b8d9)
 
 
-【
-::打包手续费上限 ,satsbyte
-set max_fee=60
-::固定打包手续费 ,satsbyte
-set fee=60
-::要打的ARC20名称
-set ticker=sophon
-::要打的次数 如果打多次 请确保手续费充足
-set times=1】
+![image](https://github.com/BFY8556/atomicals/assets/80470351/f2036bc3-7400-4aef-a5b5-bcede38cb592)
+
 
 全程记录日志，不会因为raw打印问题mint失败。
 
-效率高，4位难度基本秒出。6c4r难度110秒
 
 
 ### 特别提醒 🌱
