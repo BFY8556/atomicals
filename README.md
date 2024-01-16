@@ -43,7 +43,8 @@
 
 
 使用过程傻瓜式修改参数，适合新人
-![image](https://github.com/BFY8556/atomicals/assets/80470351/19aec613-42de-4518-bbcf-3f5b0db7b8d9)
+
+![image](https://github.com/BFY8556/atomicals/assets/80470351/65a17b18-9953-49cd-a6d7-2c12b3516bee)
 
 
 ![image](https://github.com/BFY8556/atomicals/assets/80470351/f2036bc3-7400-4aef-a5b5-bcede38cb592)
