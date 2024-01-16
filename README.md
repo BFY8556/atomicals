@@ -1,4 +1,4 @@
-不会的就看教程：https://twitter.com/bfy8556/status/1746857966219993234
+不会的就看教程：[https://twitter.com/bfy8556/status/1746857966219993234](https://twitter.com/bfy8556/status/1747116394477711652)
 
 下载地址:https://github.com/BFY8556/atomicals/releases/tag/atomicals
 
