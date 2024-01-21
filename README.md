@@ -1,6 +1,6 @@
 下载地址：https://github.com/BFY8556/atomicals/releases/tag/atomicals
 
-使用教程：
+使用教程：https://twitter.com/bfy8556/status/1749008048893698432
 
 1、首次运行EXE文件会自动生成10个钱包，钱包地址和私钥都是你本地生成的，你可以用，也可以不用，但是不要删除这个txt文件，不然启动exe会重复生成。
 
